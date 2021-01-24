@@ -1,0 +1,26 @@
+{
+  "name": "edu.logou",
+  "version": "1.0.0",
+  "description": "拉钩大前端训练营",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "grunt": "^1.3.0",
+    "nodemon": "^2.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggflyshadowwow/edu.logou.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ggflyshadowwow/edu.logou/issues"
+  },
+  "homepage": "https://github.com/ggflyshadowwow/edu.logou#readme"
+}
